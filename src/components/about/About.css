@@ -1,0 +1,64 @@
+.About {
+  padding-bottom: 8em;
+  background-color: #FCFBFB;
+}
+
+.About .info-wrapper {
+  width: 900px;
+  padding-top: 8em;
+  margin: 0 auto;
+  position: relative;
+}
+
+.About .top-squares {
+  width: 161px;
+  height: 167px;
+  position: absolute;
+  right: 0;
+  top: 3em;
+}
+
+.About .bottom-squares {
+  width: 168px;
+  height: 187px;
+  position: absolute;
+  left: -1em;
+  bottom: -6em;
+}
+
+.About .info {
+  padding-left: 2em;
+}
+
+.About .name {
+  font-family: 'Futura PT Demi';
+  font-size: 40px;
+  color: #360830;
+}
+
+.About .description {
+  width: 500px;
+  padding-top: .5em;
+  font-family: 'Futura PT Light';
+  font-size: 24px;
+  line-height: 32px;
+  color: #333133;
+}
+
+.About .social {
+  padding-top: 1.5em;
+}
+
+.About .social .social-link {
+  margin-right: 1em;
+}
+
+.btn-pink, .btn-pink:hover {
+  border: 1px solid #C1607D;
+  color: #C1607D;
+}
+
+.btn-pink .download {
+  margin-top: -3px;
+  margin-right: 3px;
+}

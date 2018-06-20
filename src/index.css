@@ -1,5 +1,38 @@
+@font-face {
+  font-family: 'Futura PT Light';
+  font-style: normal;
+  font-weight: 300;
+  src: url('./assets/fonts/futura_light.otf') format('opentype')
+}
+
+@font-face {
+  font-family: 'Futura PT Book';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./assets/fonts/futura_book.otf') format('opentype')
+}
+
+@font-face {
+  font-family: 'Futura PT Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./assets/fonts/futura_medium.otf') format('opentype')
+}
+
+@font-face {
+  font-family: 'Futura PT Demi';
+  font-style: normal;
+  font-weight: 600;
+  src: url('./assets/fonts/futura_demi.otf') format('opentype')
+}
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+}
+
+.btn {
+  font-family: 'Futura PT Medium';
+  border-radius: 0;
 }

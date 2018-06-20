@@ -1,0 +1,12 @@
+.Header {
+  padding-top: 1em;
+}
+
+.Header .navbar {
+  background: none;
+  font-family: 'Futura PT Book';
+}
+
+.nav-link {
+  color: #360830;
+}
